@@ -28,7 +28,25 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-# 📋 Summary
+<h2> :floppy_disk: Project Files Description</h2>
+
+<p>This Project includes 2 executable files, 1  python file and 1 directory as follows:</p>
+<h4>Executable Files:</h4>
+<ul>
+  <li><b>project_2_Taxi_Trip_Time_Prediction_.ipynb</b> - Includes all functions required for classification operations.</li>
+<h4>Source Directories:</h4>
+<ul>
+  <li><b>train and test directory</b> - Includes all training and testing data </li>
+</ul>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)  
+
+<h2>:book: XGBoost </h2>
+  XGBoost is an implementation of Gradient Boosted decision trees. XGBoost models majorly dominate in many Kaggle Competitions.
+In this algorithm, decision trees are created in sequential form. Weights play an important role in XGBoost. Weights are assigned to all the independent variables which are then fed into the decision tree which predicts results. The weight of variables predicted wrong by the tree is increased and these variables are then fed to the second decision tree. These individual classifiers/predictors then ensemble to give a strong and more precise model. It can work on regression, classification, ranking, and user-defined prediction problems.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) 
+
+  # 📋 Summary
 This project aims to predict New York city taxi trip times.
 
 The dataset consists of 1458644 rows and 11 columns, containing features such as trip longitude and latitude values, day, month, year of the trip, etc.
