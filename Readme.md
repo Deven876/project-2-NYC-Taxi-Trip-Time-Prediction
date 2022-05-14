@@ -30,15 +30,15 @@
 
 * #### :floppy_disk: Project Files Description</h2>
 
-<p>This Project includes 2 executable files, 1  python file and 1 directory as follows:</p>
-<h4>Executable Files:</h4>
-<ul>
+This Project includes 2 executable files, 1  python file and 1 directory as follows:</p>
+- Executable Files:
+
   <li><b>project_2_Taxi_Trip_Time_Prediction_.ipynb</b> - Includes all functions required for classification operations.</li>
   
-<h4>Source Directories:</h4>
-<ul>
+- Source Directories:</h4>
+
   <li><b>train and test directory</b> - Includes all training and testing data </li>
-<ul>
+
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)  
 
