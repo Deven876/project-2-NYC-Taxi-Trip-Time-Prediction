@@ -42,10 +42,13 @@ This Project includes 2 executable files, 1  python file and 1 directory as foll
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)  
 
-<h2>:book: XGBoost </h2>
+<h2>:book: Random Forest </h2>
   
-  XGBoost is an implementation of Gradient Boosted decision trees. XGBoost models majorly dominate in many Kaggle Competitions.
-In this algorithm, decision trees are created in sequential form. Weights play an important role in XGBoost. Weights are assigned to all the independent variables which are then fed into the decision tree which predicts results. The weight of variables predicted wrong by the tree is increased and these variables are then fed to the second decision tree. These individual classifiers/predictors then ensemble to give a strong and more precise model. It can work on regression, classification, ranking, and user-defined prediction problems.
+  Random Forest is a popular machine learning algorithm that belongs to the supervised learning technique. It can be used for both Classification and Regression problems in ML. It is based on the concept of ensemble learning, which is a process of combining multiple classifiers to solve a complex problem and to improve the performance of the model.
+
+As the name suggests, "Random Forest is a classifier that contains a number of decision trees on various subsets of the given dataset and takes the average to improve the predictive accuracy of that dataset." Instead of relying on one decision tree, the random forest takes the prediction from each tree and based on the majority votes of predictions, and it predicts the final output.
+
+The greater number of trees in the forest leads to higher accuracy and prevents the problem of overfitting.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) 
 
@@ -67,10 +70,10 @@ Exploratory data analysis (EDA) was performed, both univariate and bivariate ana
 
 Models experimented with:
 
+* #### PCA
+* #### Linear Regression
 * #### Decision Tree
 * #### Random Forest
-* #### Gradient Boost
-* #### XGBoost
 
 Random Forest perfomed best after hyperparameter tuning.
 
