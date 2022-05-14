@@ -49,7 +49,7 @@ In this algorithm, decision trees are created in sequential form. Weights play a
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) 
 
-# 📋 Summary
+# 📋 Execution Instruction
 This project aims to predict New York city taxi trip times.
 
 The dataset consists of 1458644 rows and 11 columns, containing features such as trip longitude and latitude values, day, month, year of the trip, etc.
