@@ -37,7 +37,7 @@ This Project includes 2 executable files, 1  python file and 1 directory as foll
   
  #### Source Directories:</h4>
 
-  <li><b>train and test directory</b> - Includes all training and testing data </li>
+  <li><b>Train and test directory</b> - Includes all training and testing data </li>
 
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)  
