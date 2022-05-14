@@ -28,7 +28,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-* ### :floppy_disk: Project Files Description</h2>
+ ### :floppy_disk: Project Files Description</h2>
 
 This Project includes 2 executable files, 1  python file and 1 directory as follows:</p>
  #### Executable Files:
