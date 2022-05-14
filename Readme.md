@@ -38,6 +38,7 @@
 <ul>
   <li><b>train and test directory</b> - Includes all training and testing data </li>
 </ul>
+  
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)  
 
 <h2>:book: XGBoost </h2>
@@ -46,7 +47,7 @@ In this algorithm, decision trees are created in sequential form. Weights play a
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) 
 
-  # 📋 Summary
+# 📋 Summary
 This project aims to predict New York city taxi trip times.
 
 The dataset consists of 1458644 rows and 11 columns, containing features such as trip longitude and latitude values, day, month, year of the trip, etc.
