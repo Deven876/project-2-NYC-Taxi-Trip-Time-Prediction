@@ -97,6 +97,7 @@ Achieved R2 score of 91% which menas 91 % correctly trip duration can be explain
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 📚References
+
 1.Haversine Distance - https://www.igismap.com/haversine-formula-calculate-geographic-distance-earth/
 2.NYC boundaries - https://gist.github.com/jakebathman/719e8416191ba14bb6e700fc2d5fccc5
 3.Random Forest Regressor - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
