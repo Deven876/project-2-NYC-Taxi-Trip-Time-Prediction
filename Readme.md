@@ -34,10 +34,11 @@
 <h4>Executable Files:</h4>
 <ul>
   <li><b>project_2_Taxi_Trip_Time_Prediction_.ipynb</b> - Includes all functions required for classification operations.</li>
+  
 <h4>Source Directories:</h4>
 <ul>
   <li><b>train and test directory</b> - Includes all training and testing data </li>
-</ul>
+<ul>
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)  
 
