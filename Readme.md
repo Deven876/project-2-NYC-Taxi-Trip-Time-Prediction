@@ -75,11 +75,11 @@ Models experimented with:
 * #### Decision Tree
 * #### Random Forest
 
-Random Forest perfomed best after hyperparameter tuning.
+Random Forest perfomed best with PCA performed data
 
 Root Mean Squared Error (RMSE) is chosen as the metric. The metric showed an RMSE of 221 seconds in predictions of trip time.
 
-Improvement of 68% or reduction in deviation of time prediction by 8 minutes compared to the prediction deviations from the mean.
+Achieved R2 score of 91% which menas 91 % correctly trip duration can be explained using data.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
